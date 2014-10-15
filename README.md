@@ -1,12 +1,12 @@
 real-time-subway-app
 ====================
 
-Week 4 Exercise (4A)
+### Week 4 Exercise (4A)
 
 
-Nicole Fortin
-Julie Godsmark
-Maria Nicholas
+Nicole Fortin  
+Julie Godsmark  
+Maria Nicholas  
 
 We think this app should be native-based. Reasons:
 
